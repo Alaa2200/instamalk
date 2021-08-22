@@ -1,0 +1,9 @@
+Version 20. Changelog:
+
+>[Base] New Base update 184.0.0.30.117
+>[Fixed ] Antivirus Issue
+>[Fixed] Hanging Issue
+>[Added] Chat lock
+>[Remove] Action Bar and NavBar Setting Again
+>[Added] Remix Feature
+>Fixed many more issues.
