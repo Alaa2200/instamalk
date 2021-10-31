@@ -1,5 +1,7 @@
-Version 1.60 Changelog:
+Version 1.61 Changelog:
 
->[Fixed] a crash when updating the follower list
->[Fixed] The problem of duplicate icons when installing the update
->[Fixed] The problem of the application disappearing in the list of applications in Huawei devices
+>[Base] 205.0.0.34.114
+>[Added] Hide Chat
+>[Fixed] Heating Issue
+>[Fixed] battery consuming
+>[Fixed] all problems
