@@ -1,7 +1,7 @@
-Version 1.61 Changelog:
+Version 2.62 Changelog:
 
->[Base] 205.0.0.34.114
->[Added] Hide Chat
->[Fixed] Heating Issue
->[Fixed] battery consuming
->[Fixed] all problems
+>[Base] 215.0.0.27.359
+>[Added] App Icons
+>[Fixed] Backup and Restore
+>[Fixed] Story and Reel Uploading
+>[Fixed] Random Crash
